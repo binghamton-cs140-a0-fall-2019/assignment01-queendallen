@@ -79,7 +79,7 @@ public String getAddress() {
 }
 
 public String toString() {
-	return String.format("%s %s %s,\n%s\n%s", getFirstNames(),
+	return String.format("%s %s %s,\n%s\n%s\n", getFirstNames(),
 			getLastNames(), getSSN(), getPlaceDob(), getAddress());
 }
 

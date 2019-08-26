@@ -1,25 +1,30 @@
 
-TESTS FOR StreetUSAddress.java:
+TESTS FOR Computer.java:
+Apple, 1.6GHz dual-core Intel Core i5, 8GB Memory, 128GB Solid State Drive, Price: $1099.00 Apple, 1.6GHz dual-core Intel Core i5, 8GB Memory, 256GB Hard Drive, Price: $1099.00 Apple, 1.6GHz dual-core Intel Core i5, 8GB Memory, 1.0TB Solid State Drive, Price: $1299.00 Apple, 1.6GHz dual-core Intel Core i5, 8GB Memory, 1.1TB Hard Drive, Price: $1299.00 
+TESTS FOR ComputerOwner.java:
+Computer List, Owner: Dyandra Allen 012-34-5678,
+Date and place of birth: 2000-11-23, NYC, NY, USA
 street 1
 street 2
 Binghamton, NY 13901
+
+Computers: [Apple, 1.6GHz dual-core Intel Core i5, 8GB Memory, 128GB Solid State Drive, Price: $1099.00 , Apple, 1.6GHz dual-core Intel Core i5, 8GB Memory, 256GB Hard Drive, Price: $1099.00 , Apple, 1.6GHz dual-core Intel Core i5, 8GB Memory, 1.0TB Solid State Drive, Price: $1299.00 , Apple, 1.6GHz dual-core Intel Core i5, 8GB Memory, 1.1TB Hard Drive, Price: $1299.00 ]
+Computer List, Owner: Dyandra Allen 012-34-5678,
+Date and place of birth: 2000-11-23, NYC, NY, USA
 street 1
+street 2
 Binghamton, NY 13901
 
-TESTS FOR DateAndPlaceOfBirth.java:
-Date and place of birth: 2000-11-23, NYC, NY, USADate and place of birth: 2000-11-23, LA, CA, USADate and place of birth: 2015-11-23, Houston, TX, USADate and place of birth: 2005-12-10, Copenhagen, Denmark
-TESTS FOR DateAndPlaceOfBirth.java:
-Date and place of birth: 2000-11-23, NYC, NY, USADate and place of birth: 2000-11-23, LA, CA, USADate and place of birth: 2015-11-23, Houston, TX, USADate and place of birth: 2005-12-10, Copenhagen, Denmark
-TESTS FOR DateAndPlaceOfBirth.java:
-Date and place of birth: 2000-11-23, NYC, NY, USADate and place of birth: 2000-11-23, LA, CA, USADate and place of birth: 2015-11-23, Houston, TX, USADate and place of birth: 2005-12-10, Copenhagen, Denmark
-TESTS FOR DateAndPlaceOfBirth.java:
-Date and place of birth: 2000-11-23, NYC, NY, USADate and place of birth: 2000-11-23, LA, CA, USADate and place of birth: 2015-11-23, Houston, TX, USADate and place of birth: 2005-12-10, Copenhagen, Denmark
-TESTS FOR DateAndPlaceOfBirth.java:
-Date and place of birth: 2000-11-23, NYC, NY, USADate and place of birth: 2000-11-23, LA, CA, USADate and place of birth: 2015-11-23, Houston, TX, USADate and place of birth: 2005-12-10, Copenhagen, Denmark
-TESTS FOR DateAndPlaceOfBirth.java:
-Date and place of birth: 2000-11-23, NYC, NY, USADate and place of birth: 2000-11-23, LA, CA, USADate and place of birth: 2015-11-23, Houston, TX, USADate and place of birth: 2005-12-10, Copenhagen, Denmark
-TESTS FOR DateAndPlaceOfBirth.java:
-Date and place of birth: 2000-11-23, NYC, NY, USADate and place of birth: 2000-11-23, LA, CA, USADate and place of birth: 2015-11-23, Houston, TX, USADate and place of birth: 2005-12-10, Copenhagen, Denmark
+Computers: [Apple, 1.6GHz dual-core Intel Core i5, 8GB Memory, 128GB Solid State Drive, Price: $1099.00 , Apple, 1.6GHz dual-core Intel Core i5, 8GB Memory, 256GB Hard Drive, Price: $1099.00 ]
+
+TESTS FOR Person.java:
+Dyandra Allen 023-45-6789,
+Date and place of birth: 2000-11-23, NYC, NY, USA
+street 1
+street 2
+Binghamton, NY 13901
+
+
 TESTS FOR DateAndPlaceOfBirth.java:
 Date and place of birth: 2000-11-23, NYC, NY, USADate and place of birth: 2000-11-23, LA, CA, USADate and place of birth: 2015-11-23, Houston, TX, USADate and place of birth: 2005-12-10, Copenhagen, Denmarktrue
 true
@@ -32,109 +37,16 @@ false
 true
 false
 
-TESTS FOR Computer.java:
-Apple, 1.6GHz dual-core Intel Core i5, 8GB Memory, 128GB Solid State Drive, Price: $1099.00 Apple, 1.6GHz dual-core Intel Core i5, 8GB Memory, 256GB Hard Drive, Price: $1099.00 Apple, 1.6GHz dual-core Intel Core i5, 8GB Memory, 1.0TB Solid State Drive, Price: $1299.00 Apple, 1.6GHz dual-core Intel Core i5, 8GB Memory, 1.1TB Hard Drive, Price: $1299.00 
-TESTS FOR Person.java:
-Dyandra
-Allen
-023-45-6789, Date and place of birth:  Date and place of birth: 2000-11-23, NYC, NY, USA
-TESTS FOR Person.java:
-Dyandra
-Allen
-023-45-6789, Date and place of birth:  Date and place of birth: 2000-11-23, NYC, NY, USA
-TESTS FOR Person.java:
-Dyandra
-Allen
-023-45-6789, Date and place of birth:  Date and place of birth: 2000-11-23, NYC, NY, USA
-TESTS FOR Person.java:
-Dyandra
-Allen
-023-45-6789, Date and place of birth:  Date and place of birth: 2000-11-23, NYC, NY, USA
-TESTS FOR Person.java:
-Dyandra
-Allen
-023-45-6789, Date and place of birth:  Date and place of birth: 2000-11-23, NYC, NY, USA
-TESTS FOR Person.java:
-Dyandra
-Allen
-023-45-6789, Date and place of birth:  Date and place of birth: 2000-11-23, NYC, NY, USA
-TESTS FOR Person.java:
-Dyandra
-Allen
-023-45-6789, Date and place of birth:  Date and place of birth: 2000-11-23, NYC, NY, USA
-TESTS FOR Person.java:
-Dyandra Allen 023-45-6789, Date and place of birth: 
-, Date and place of birth: 2000-11-23, NYC, NY, USA
- street 1
+TESTS FOR StreetUSAddress.java:
+street 1
 street 2
 Binghamton, NY 13901
-TESTS FOR Person.java:
-Dyandra Allen 023-45-6789
-,Date and place of birth: 
- Date and place of birth: 2000-11-23, NYC, NY, USA
- street 1
-street 2
-Binghamton, NY 13901
-TESTS FOR Person.java:
-Dyandra Allen 023-45-6789
-,Date and place of birth: 
- Date and place of birth: 2000-11-23, NYC, NY, USA
- street 1
-street 2
-Binghamton, NY 13901
-TESTS FOR Person.java:
-Dyandra Allen 023-45-6789
-,Date and place of birth: 
- Date and place of birth: 2000-11-23, NYC, NY, USA
- street 1
-street 2
-Binghamton, NY 13901
-TESTS FOR Person.java:
-Dyandra Allen 023-45-6789,
- Date and place of birth: 
- Date and place of birth: 2000-11-23, NYC, NY, USA
- street 1
-street 2
-Binghamton, NY 13901
-TESTS FOR Person.java:
-Dyandra Allen 023-45-6789,
-Date and place of birth:  Date and place of birth: 2000-11-23, NYC, NY, USA
- street 1
-street 2
-Binghamton, NY 13901
-TESTS FOR Person.java:
-Dyandra Allen 023-45-6789,
-Date and place of birth:  Date and place of birth: 2000-11-23, NYC, NY, USA
- street 1
-street 2
-Binghamton, NY 13901
-TESTS FOR Person.java:
-Dyandra Allen 023-45-6789,
-Date and place of birth: 2000-11-23, NYC, NY, USA street 1
-street 2
+street 1
 Binghamton, NY 13901
 
-TESTS FOR Person.java:
-Dyandra Allen 023-45-6789,
-Date and place of birth: 2000-11-23, NYC, NY, USA
- street 1
-street 2
-Binghamton, NY 13901
-TESTS FOR Person.java:
-Dyandra Allen 023-45-6789,
-Date and place of birth: 2000-11-23, NYC, NY, USA
-street 1
-street 2
-Binghamton, NY 13901
-TESTS FOR Person.java:
-Dyandra Allen 023-45-6789,
-Date and place of birth: 2000-11-23, NYC, NY, USA
-street 1
-street 2
-Binghamton, NY 13901
-TESTS FOR Person.java:
-Dyandra Allen 023-45-6789,
-Date and place of birth: 2000-11-23, NYC, NY, USA
-street 1
-street 2
-Binghamton, NY 13901
+TESTS FOR SimpleDate.java:
+true
+false
+true
+false
+false

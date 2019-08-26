@@ -13,10 +13,8 @@ public class PersonTester {
           Person human = new Person("Dyandra", "Allen", "012-34-5678", dateAndBirth, place);
           System.out.println(human);
           Person human2 = new Person("Dyandra", "Allen", "023-45-6789", dateAndBirth, place);
-          output.print(human2); //Won't print
-		//Copy all your lines above, add an extra "2" to every variable name
-		// and replace every System.out.print or System.out.println
-		// by output.print or output.println
+          output.println(human2); //Won't print
+
 		} catch (FileNotFoundException e) {
 			e.printStackTrace();
 		}
