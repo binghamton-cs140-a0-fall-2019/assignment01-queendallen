@@ -50,3 +50,10 @@ false
 true
 false
 false
+
+TESTS FOR SimpleDate.java:
+true
+false
+true
+false
+false
